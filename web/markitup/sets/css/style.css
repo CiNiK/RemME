@@ -1,0 +1,37 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+//
+// CSS Set by Kevin Papst - http://www.kevinpapst.de/
+// ------------------------------------------------------------------*/
+.markItUp .class a {
+	background-image:url(images/tag.png);
+}
+.markItUp .bold a {
+	background-image:url(images/bold.png);
+}
+.markItUp .italic a {
+	background-image:url(images/italic.png);
+}
+.markItUp .stroke a {
+	background-image:url(images/stroke.png);
+}
+	.markItUp  .left a {
+		background-image:url(images/text_align_left.png); 
+	}
+	.markItUp  .center a {
+		background-image:url(images/text_align_center.png); 
+	}
+	.markItUp .right a {
+		background-image:url(images/text_align_right.png); 
+	}
+	.markItUp .justify a {
+		background-image:url(images/text_align_justify.png); 
+	}
+
+.markItUp .background a {
+	background-image:url(images/picture.png); 
+}
+.markItUp .colors a {
+	background-image:url(images/color_wheel.png); 
+}
